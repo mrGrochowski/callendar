@@ -1,5 +1,5 @@
 //rok przestepny rok%4==0 && rok%100!=0) || rok%400==0
-
+// dealing with it https://jsfiddle.net/2uvthagz/34/
 
 var months={
 styczeń:31,
