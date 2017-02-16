@@ -23,7 +23,7 @@ document.body.innerText+= i+" "+months[i]+"\n";
 	for (var j=1; j<months[i]; j++)	{document.body.innerText+="["+j+"]\u0020"}   
 	document.body.innerText+="\n";
 }
-
+console.log("yolo");
 /*function dzien_tygodnia(year,month,day:word):string;
 var m,c,d,n:integer;
 begin
